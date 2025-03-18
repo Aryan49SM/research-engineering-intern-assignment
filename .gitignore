@@ -1,0 +1,10 @@
+__pycache__
+.env
+venv/
+/cleaned_data/*json
+/cleaned_data/df_filtered*
+/cleaned_data/combined_df.csv
+/cleaned_data/combined_df_after_fe.csv
+/data/data.jsonl
+/data/output-Halfed.json
+lib/
